@@ -1,0 +1,37 @@
+ec1a17f1edc6229260397a30a600d62d *DESCRIPTION
+f186ff2845c1f12f1119196fedd2ebb5 *INDEX
+4e83c8ed63d63c44c34576d13ebf4d45 *LICENCE
+20f4d6309fceb32bfeddb9c6bb458ef3 *Meta/Rd.rds
+3a564b9d3150230af686291d10031fe9 *Meta/data.rds
+3116b09a69f681bcdc57557b4c235db7 *Meta/features.rds
+f64f1fa73836622fc91e8ae1f9da73d5 *Meta/hsearch.rds
+b363caa561e06d9210a510b0b7db3ded *Meta/links.rds
+6725c28ac5a62c831939f4c750539a05 *Meta/nsInfo.rds
+0ed1c77631dfaf2413cc922b692c0c0c *Meta/package.rds
+994b54d6ebbf7aed1d1ff03ad3ca26a0 *NAMESPACE
+ebf0fc819595d631b8bf280c4b049940 *R/prepim
+d39f3fc22b1be762421a4e9751f3de40 *R/prepim.rdb
+ebc639e4b5b59058ccafe60885231321 *R/prepim.rdx
+c630c1ca1e15f715ddbd216379aaa79f *data/splits/example_sector_splits_specification_with_periods.xlsx
+f852da0eff8434b4253a226fbe334ae3 *data/splits/gfcf.csv
+ac9e0d6deaca9b36e7be869a81689ba5 *data/splits/gfcf_split.csv
+9263de26d22112a822f5c970d38bab0c *data/splits/split_spec.csv
+406ef6c640363d5eee94194d91addb68 *data/splits/splits_expanded.csv
+2d6e60007da1dccf3c459fd89b4643ef *data/test asset splits.csv
+89808b0273b6fb88a98386076fe0651f *data/test cp all BL no dis.xlsx
+5d1b1a72657b7afaf75b01e585389369 *data/test cp all BL with hyphens.xlsx
+e8b2f854ad8a2b68a6102c4c339efe3b *data/test cp all BL.xlsx
+e283e71c6ef34d743d31c7128743dd59 *data/test cvm all BL.xlsx
+f3b112600626ea7ba7dcfd45bf7c9925 *data/test gfcf ba cofog duplicates.xlsx
+c586d7728a4a180309df3439d0401e83 *data/test gfcf ba cofog mixed basis.xlsx
+ed695301736537098cc5f1b85fdcb98b *data/test gfcf ba cofog.xlsx
+4792354ecafe16653244cd9f477d7a47 *data/test historic gfcf.csv
+74a847f463f49a7b3607d99000f24192 *data/test lifelengths bad industry.xlsx
+d9ebc0cfc3920539a001a525b38c3222 *data/test lifelengths.xlsx
+29e57dea3347bb657bb640e84a524978 *help/AnIndex
+52ef48250793e8853531736557f90f9b *help/aliases.rds
+733540601774c1ac9dd561e8de6e8b86 *help/paths.rds
+c593b5de047a83ab11bdbe1668689521 *help/prepim.rdb
+12b8231fa957d21ef3499c8186602a61 *help/prepim.rdx
+d51507e1dcad00ac19df607a7458a9d1 *html/00Index.html
+b6763e6916890c631fdc3f2643803b1a *html/R.css
