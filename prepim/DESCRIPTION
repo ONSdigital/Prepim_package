@@ -1,7 +1,7 @@
 Package: prepim
 Type: Package
 Title: Prepare Input Data for PIM
-Version: 1.0.0
+Version: 1.1.0
 Authors@R: person("Graham", "Parsons", email = "graham.parsons@ons.gov.uk",
   role = c("aut", "cre"))
 Description: Carries out the preparation steps on the input datasets required
@@ -10,11 +10,10 @@ Description: Carries out the preparation steps on the input datasets required
   contemporary data.
 License: file LICENCE
 Depends: futile.logger
-Imports: assertr, dplyr (== 0.5.0), readr, readxl, tidyr (== 0.6.1),
-        zoo, pimIO
+Imports: assertr, dplyr, readr, readxl, tidyr, zoo, pimIO
 LazyData: TRUE
 Suggests: testthat
 RoxygenNote: 6.0.1
 Author: Graham Parsons [aut, cre]
 Maintainer: Graham Parsons <graham.parsons@ons.gov.uk>
-Built: R 3.4.0; ; 2018-04-12 11:08:37 UTC; windows
+Built: R 4.2.1; ; 2022-07-20 23:11:18 UTC; windows
